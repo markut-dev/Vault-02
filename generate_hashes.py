@@ -11,7 +11,7 @@ required_files = [
   "Assets/Scripts/Firebase/FirebaseAuthManager.cs",
   "Assets/Scripts/Firebase/AvatarCustomManager.cs",
   "Assets/Scripts/Firebase/AgentNameDisplayManager.cs",
-  "Assets/Scripts/GitHub/ClientVersionChecker.cs"
+  "Assets/Scripts/GitHub/ClientVersionChecker.cs",
   "Assets/AssetBundles"
 ]
 
