@@ -1,0 +1,13 @@
+{
+  "game_version": "1.0.0",
+  "required_files": {
+    "Assets/Prefabs/Client.unity": "f3d7f73c79b7cc60e69be63151a6e395e52f9f1257603f5174059e25fa74d1f3",
+    "Assets/Scenes/FrontEnd.unity": "c4ca4238a0b923820dcc509a6f75849b",
+    "Assets/Scenes/Avatar Editor.unity": "d8578edf8458ce06fbc5bb2b8d1a6b7b3",
+    "Assets/Scenes/InitGame.unity": "e99a18c428cb38d5f260853678922e03",
+    "Assets/Scripts/Firebase/FirebaseAuthManager.cs": "1cdb0837c2f89b9f8c6b79b80e21c97c",
+    "Assets/Scripts/Firebase/AvatarCustomManager.cs": "9e107d9d372bb6826bd81d3542a419d6",
+    "Assets/Scripts/Firebase/AgentNameDisplayManager.cs": "2c6ee24b09816a6f14f95d1698b24ead",
+    "Assets/Scripts/GitHub/ClientVersionChecker.cs": "d2d2d2b2d5d0b0b0c5c5e0a7e9b3a75b"
+  }
+}
